@@ -1,0 +1,7 @@
+﻿  test.c
+D:\code store\daily test\test.22-3-13\test.22-3-13\test.c(83,12): warning C4090: “return”: 不同的“const”限定符
+D:\code store\daily test\test.22-3-13\test.22-3-13\test.c(88,10): warning C4090: “=”: 不同的“const”限定符
+D:\code store\daily test\test.22-3-13\test.22-3-13\test.c(78,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\code store\daily test\test.22-3-13\test.22-3-13\test.c(79,1): warning C4090: “初始化”: 不同的“const”限定符
+D:\code store\daily test\test.22-3-13\test.22-3-13\test.c(80,1): warning C4090: “初始化”: 不同的“const”限定符
+  test.22-3-13.vcxproj -> D:\code store\daily test\test.22-3-13\x64\Debug\test.22-3-13.exe
